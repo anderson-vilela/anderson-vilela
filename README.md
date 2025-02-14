@@ -41,7 +41,7 @@ Minha missão é desenvolver aplicações **modernas, escaláveis e de alto dese
 
 Sou um Desenvolvedor Front-End focado em React.js e Next.js, sempre em busca de oportunidades para crescer e enfrentar novos desafios nessa stack dinâmica. Desde outubro de 2021, venho me dedicando intensamente ao desenvolvimento de software, mergulhando na lógica de programação e na arquitetura de sistemas.
 
-Minha trajetória é marcada pelo domínio sólido de HTML, CSS e JavaScript, aliado à experiência com TypeScript, NodeJS, Nest.js Python, Django, React.js e Next.js. Acredito no valor de um código limpo e eficiente, sempre utilizando ferramentas como ESLint para manter as melhores práticas.
+Minha trajetória é marcada pelo domínio sólido de HTML, CSS e JavaScript, aliado à experiência com TypeScript, React.js, Next.js, NodeJS, NestJS, Python e Django. Acredito no valor de um código limpo e eficiente, sempre utilizando ferramentas como ESLint para manter as melhores práticas.
 
 Com um forte senso de design, utilizo preprocessadores e frameworks como TailwindCSS, SASS e Bootstrap para criar interfaces modernas e responsivas. Estou entusiasmado para integrar equipes colaborativas e inovadoras, onde possa contribuir com minha paixão e expertise em Desenvolvimento de Software.
 
