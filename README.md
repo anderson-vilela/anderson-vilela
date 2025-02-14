@@ -28,7 +28,7 @@ Minha missão é desenvolver aplicações **modernas, escaláveis e de alto dese
 
 ## 🏆 Destaques
 
-- **Co-fundador** e **CTO** da [Vilela Technology](https://www.linkedin.com/company/vilela-technology/about/)
+- **Cofundador** e **CTO** da [Vilela Technology](https://www.linkedin.com/company/vilela-technology/about/)
 - 4+ projetos full-stack entregues em produção
 - Domínio completo do ecossistema **JavaScript/TypeScript**
 - Especialista em **Next.js** e **NestJS** para soluções robustas
