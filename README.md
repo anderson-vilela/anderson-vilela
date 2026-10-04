@@ -1,162 +1,163 @@
-# 👨‍💻 Anderson Vilela  
-**CTO & Front-End Developer at [Vilela Technology](https://www.linkedin.com/company/vilela-technology/about/)**
+# 👨‍💻 Anderson Vilela
+**Software Engineer | Desenvolvimento com IA: Spec-Driven Development & Harness Engineering**  
+na [Vilela Technology](https://www.linkedin.com/company/vilela-technology/about/)
 
-🚀 Apaixonado por tecnologia, lógica de programação e arquitetura de software.  
-Minha missão é desenvolver aplicações **modernas, escaláveis e de alto desempenho**, sempre priorizando a **experiência do usuário, a eficiência do código e as boas práticas**.
+> 🇺🇸 *Software engineer who ships production code with AI agents. Specs, test harnesses and quality gates keep the output reliable, reviewed and maintainable.*
 
 <p align="left">
+  <a href="https://ia.fullcycle.com.br/mba-ia/">
+    <img alt="MBA Full Cycle" src="https://img.shields.io/badge/MBA-Engenharia_de_Software_com_IA-FFC82A?style=for-the-badge&logo=google-gemini&logoColor=1A0F02" />
+  </a>
+  <a href="https://www.anthropic.com/claude-code">
+    <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  </a>
+  <a href="https://modelcontextprotocol.io/">
+    <img alt="MCP" src="https://img.shields.io/badge/MCP-Model_Context_Protocol-6E40C9?style=for-the-badge&logo=anthropic&logoColor=white" />
+  </a>
   <a href="https://www.typescriptlang.org/">
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   </a>
-  
-  <a href="https://reactjs.org/">
-    <img alt="React.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <a href="https://www.python.org/">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="https://nestjs.com/">
+    <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   </a>
   <a href="https://nextjs.org/">
     <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   </a>
-  
-  <a href="https://nodejs.org/">
-    <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  </a>
-  <a href="https://nestjs.com/">
-    <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <a href="https://www.docker.com/">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🏆 Destaques
+## 🎯 Sobre mim
 
-- **Cofundador** e **CTO** da [Vilela Technology](https://www.linkedin.com/company/vilela-technology/about/)
-- 4+ projetos full-stack entregues em produção
-- Domínio completo do ecossistema **JavaScript/TypeScript**
-- Especialista em **Next.js** e **NestJS** para soluções robustas
-- Experiência em integração de APIs e sistemas complexos
-- Certificado em 15+ cursos de especialização tecnológica
+Sou engenheiro de software full stack (TypeScript e Python) e **uso IA como parte central do meu processo de desenvolvimento**, não como autocompletar. Planejo com especificações, deixo agentes implementarem dentro de limites bem definidos e **valido tudo com testes, linters e revisão humana** antes de entregar.
 
----
+Minha prioridade é **entregar software melhor e mais rápido, com a IA como ferramenta de trabalho**, e a responsabilidade pelo resultado continua sendo minha. Desenvolvi essa abordagem no [MBA em Engenharia de Software com IA da Full Cycle](https://ia.fullcycle.com.br/mba-ia/) e a aplico no dia a dia na [Vilela Technology](https://www.linkedin.com/company/vilela-technology/about/).
 
-## 👤 Sobre Mim
+## 📈 Por que isso importa
 
-Sou um Desenvolvedor Front-End focado em React.js e Next.js, sempre em busca de oportunidades para crescer e enfrentar novos desafios nessa stack dinâmica. Desde outubro de 2021, venho me dedicando intensamente ao desenvolvimento de software, mergulhando na lógica de programação e na arquitetura de sistemas.
+A adoção de IA no desenvolvimento já é regra, mas a confiança no resultado não acompanha. Segundo o [Stack Overflow Developer Survey 2025](https://survey.stackoverflow.co/2025/ai):
 
-Minha trajetória é marcada pelo domínio sólido de HTML, CSS e JavaScript, aliado à experiência com TypeScript, React.js, Next.js, NodeJS, NestJS, Python e Django. Acredito no valor de um código limpo e eficiente, sempre utilizando ferramentas como ESLint para manter as melhores práticas.
+- **84%** dos desenvolvedores usam ou planejam usar IA no desenvolvimento;
+- **46%** não confiam na precisão do que a IA entrega;
+- **66%** citam como maior frustração soluções "quase certas, mas não totalmente".
 
-Com um forte senso de design, utilizo preprocessadores e frameworks como TailwindCSS, SASS e Bootstrap para criar interfaces modernas e responsivas. Estou entusiasmado para integrar equipes colaborativas e inovadoras, onde possa contribuir com minha paixão e expertise em Desenvolvimento de Software.
+É nessa lacuna que eu atuo: **transformar a velocidade da IA em código confiável**, com especificação clara, contexto controlado e verificação objetiva.
 
 ---
 
-## 🛠 Tecnologias & Stack
+## 🔄 Como eu trabalho
 
-**Front-End:**  
-- **Frameworks & Bibliotecas:** React.js, Next.js, Redux, Zustand  
-- **Estilização:** TailwindCSS, SASS, Styled Components, Bootstrap  
-- **Ferramentas:** ESLint, Prettier, Vite, Webpack  
-- **UX & Responsividade:** Design Mobile-First, Acessibilidade (A11Y), Motion UI  
+```mermaid
+flowchart LR
+    A["🔎 Pesquisar<br/>contexto e código existente"] --> B["📝 Especificar<br/>PRD, Spec e Contract.md"]
+    B --> C["🧩 Planejar<br/>tarefas atômicas e verificáveis"]
+    C --> D["🤖 Implementar<br/>agente com escopo limitado"]
+    D --> E{"✅ Gates<br/>tipos, lint, testes, E2E"}
+    E -- falhou --> D
+    E -- passou --> F["👀 Revisão humana<br/>e Pull Request"]
+```
 
-**Back-End:**  
-- **Linguagens:** JavaScript (Node.js), TypeScript, Python  
-- **Frameworks:** NestJS, Django, FastAPI  
-- **Comunicação:** RESTful APIs, WebSockets  
-- **Segurança:** JWT, Jose, Bcrypt  
-
-**Banco de Dados & Cloud:**  
-- **SQL:** PostgreSQL, MySQL, SQLite  
-- **NoSQL:** MongoDB, Firebase Firestore  
-- **ORMs/ODMs:** Prisma, TypeORM, Mongoose  
-- **Cloud/Storage:** Gcloud  
-
-**DevOps & Ferramentas:**  
-- **Containerização:** Docker, Docker Compose  
-- **CI/CD & Versionamento:** Git  
-- **Gerenciadores de Pacotes:** NPM, Yarn, PNPM
+| Etapa | O que faço na prática |
+| :--- | :--- |
+| **Especificar** | Parto de um PRD e derivo especificação, contrato e plano de tarefas (**Spec-Driven Development**), para que o agente nunca implemente "no escuro". |
+| **Controlar o contexto** | Mantenho `AGENTS.md`, rules, ADRs e design docs enxutos e atualizados, e entrego ao agente só o contexto necessário (*progressive disclosure*). |
+| **Delegar com limites** | Divido o trabalho em subagentes com escopo restrito de arquivos e comandos, e paralelizo features independentes em sessões isoladas (`tmux`, git worktrees). |
+| **Verificar de forma objetiva** | Type-check, lint, hooks de pre-commit e testes (unitários, integração e E2E com Playwright) funcionam como *quality gates*: a tarefa só termina com tudo verde. |
+| **Manter o controle** | Reviso o diff, valido decisões de arquitetura e exijo aprovação humana antes de ações irreversíveis (migrações, comandos destrutivos). |
 
 ---
 
-## 🚀 Projetos Destacados
+## 🛡️ Competências em foco
 
-### 🔹 Mr. Acesso Escolar  
-**Descrição:** Sistema de controle de acesso para escolas, integrando catracas e reconhecimento facial para autenticação de alunos e funcionários.  
-**Tecnologias:** Next.js, React.js, Node.js, TailwindCSS, Docker  
-- Interface responsiva e intuitiva  
-- Integração com APIs para autenticação e registro de acessos  
-- Otimização de performance para alto volume de acessos
+### Desenvolvimento com IA (AI-Assisted Development)
+- Ferramentas de IA para código: **Claude Code, Cursor, GitHub Copilot e Windsurf**, com rules, memories e contexto configurados por projeto.
+- **Skills (`SKILL.md`)** modulares com frontmatter YAML e *progressive disclosure*, e **servidores MCP** (Context7, PostgreSQL, Figma) integrados ao ambiente de desenvolvimento.
+- IA para **debugging, análise de logs, refatoração, geração e auditoria de testes, code review e documentação**.
 
----
+### Harness Engineering
+Estrutura de contenção para que agentes produzam resultados previsíveis, sem degradar o código existente:
+- **Enforcements mecânicos**: linters estritos, análise estática de tipos, hooks de pre-commit e gates de build que bloqueiam violações de padrão.
+- **Avaliação funcional**: testes automatizados como esteira de validação, com critérios mensuráveis para considerar uma tarefa concluída.
+- **Ciclos fechados de correção**: o agente roda os gates, lê o erro, diagnostica e corrige até passar, com *human-in-the-loop* nos pontos críticos.
 
-### 🔹 Mr. Estacionamento  
-**Descrição:** Plataforma para gestão de estacionamentos, com controle tarifado, totens e câmeras IP para leitura de placas.  
-**Tecnologias:** Next.js, React.js, Node.js, TailwindCSS, Docker  
-- Interface responsiva e otimizada para dispositivos móveis  
-- Algoritmos para cálculo automático de tarifas  
-- Integração com APIs de câmeras para reconhecimento de placas
+### Context Engineering & Prompt Engineering
+- Gestão da janela de contexto (truncamento, sumarização, *prompt caching*) e **design docs como contexto vivo**: PRD, RFC, ADR e diagramas C4/Mermaid.
+- Prompts estruturados e versionados (CoT, ReAct, few-shot) com templates reutilizáveis por tipo de tarefa.
 
----
-
-### 🔹 Salus – Sistema de Atenção e Vigilância em Saúde  
-**Descrição:** Plataforma para monitoramento e gestão de dados epidemiológicos, voltada para profissionais da saúde.  
-**Tecnologias:** Python, Django, SASS  
-- Interface gráfica moderna e otimizada  
-- Melhorias em usabilidade e acessibilidade  
-- Dashboards interativos para análise de dados
+### Qualidade, Segurança & DevOps com IA
+- Pipelines de **CI/CD** assistidos por IA, **DevSecOps** (SAST/DAST, análise de dependências) e boas práticas do **OWASP Top 10 for LLM** (prompt injection, guardrails).
+- Observabilidade, resposta a incidentes e rascunho de *postmortems* com apoio de IA.
 
 ---
 
-### 🔹 LabManager  
-**Descrição:** Plataforma interna para processos seletivos de pesquisadores e bolsistas no LAIS/UFRN.  
-**Tecnologias:** Python, Django, TailwindCSS  
-- Interface aprimorada para uma melhor experiência do usuário  
-- Testes automatizados com Selenium  
-- Otimização de performance para respostas ágeis da API
+## 🧰 Stack
+
+| Camada | Tecnologias e ferramentas |
+| :--- | :--- |
+| **Desenvolvimento com IA** | Claude Code, Cursor, GitHub Copilot, Windsurf, MCP, Skills, `AGENTS.md`, subagentes, tmux multi-sessão |
+| **Metodologia** | Spec-Driven Development, TDD, PRD / RFC / ADR, C4 Model, Mermaid |
+| **Qualidade & Testes** | Playwright (E2E), Jest, Vitest, ESLint, TypeScript strict, Git pre-commit hooks |
+| **Back-End & APIs** | TypeScript, Node.js, NestJS, Python, FastAPI, Django, REST, WebSockets, OpenAPI |
+| **Front-End & Design System** | Next.js (App Router), React, TailwindCSS, shadcn/ui, design tokens Figma → código via MCP |
+| **Dados** | PostgreSQL, MongoDB, Redis, SQLite |
+| **DevOps, Cloud & Segurança** | Docker, Docker Compose, GitHub Actions (CI/CD), GCP, AWS, DevSecOps |
+| **IA aplicada** *(base sólida, não é meu foco principal)* | OpenAI SDK, LangChain, LangGraph, CrewAI, Google ADK, servidores MCP, A2A, LiteLLM, RAG |
 
 ---
 
-### 🔹 DocsSign  
-**Descrição:** Sistema de compartilhamento e assinatura digital de documentos, com foco em segurança e rastreabilidade.  
-**Tecnologias:** Python, Django, BulmaCSS  
-- Interface mobile-first responsiva  
-- Correção de bugs críticos no fluxo de assinatura digital  
-- Autenticação robusta para documentos confidenciais
+## 🎓 Formação
+
+- **MBA em Engenharia de Software com IA** (400 horas): *Full Cycle*, reconhecido pelo MEC.  
+  Arquitetura para IA, metodologia e workflow para devs (SDD, Harness Engineering), desenvolvimento de aplicações e agentes, protocolos MCP/A2A e DevOps/SRE com IA.
+- **Pós-Graduação em Desenvolvimento Full Stack**: Centro Universitário União das Américas Descomplica
+- **Graduação em Análise e Desenvolvimento de Sistemas**: Centro de Ensino Superior de Maringá (UniCesumar)
+
+<details>
+<summary><b>📚 Ver o currículo completo do MBA</b></summary>
+
+<br/>
+
+| # | Disciplina | Principais tópicos |
+| :-: | :--- | :--- |
+| 01 | Fundamentos de IA Generativa | Transformers, tokens, inferência, alucinação, modelos locais (Ollama) |
+| 02 | Prompt Engineering | CoT, ReAct, prompt caching, versionamento, LLM-as-a-Judge |
+| 03 | Arquitetura na Era da IA | 12-Factor Agents, acoplamento, caching, AI Gateways (LiteLLM), OWASP LLM |
+| 04 | Design Docs com IA | PRD, RFC, ADR, C4 Model, Mermaid como contexto para a IA |
+| 05 | Desenvolvimento de Software com IA | Cursor, Copilot, rules, memories, MCP, testes, debugging e refatoração |
+| 06 | Desenvolvimento em Modo Agente | SDD, Harness Engineering, subagentes, skills, paralelização com tmux |
+| 07 | Desenvolvimento de Aplicações com IA | NestJS, Next.js, Docker, TDD com IA, Figma via MCP, shadcn/ui |
+| 08 | Desenvolvimento de Agentes | Google ADK, LangGraph, CrewAI, tools, subagentes, observabilidade |
+| 09 | Protocolos de Comunicação | MCP (servidores customizados), Google A2A, Docker MCP Toolkit |
+| 10 | DevOps e SRE com IA | Pipelines assistidos, DevSecOps, ChatOps, postmortems automatizados |
+| 11 | Marketing Pessoal, Trabalho em Equipe e Empreendedorismo | Posicionamento, liderança e protagonismo profissional |
+
+</details>
 
 ---
 
-## 🎓 Formação Acadêmica
+<!--
+## 🚀 Projetos em destaque
+Recrutadores valorizam prova prática. Adicione de 2 a 4 projetos aqui (repositórios públicos ou cases) neste formato:
 
-- **Pós-Graduação em Desenvolvimento Full Stack** (2023 – 2024)  
-  Centro Universitário União das Américas Descomplica  
+| Projeto | O que resolve | Como a IA foi usada | Stack |
+| :--- | :--- | :--- | :--- |
+| [nome](link-do-repo) | Problema e resultado em uma frase | Ex.: SDD + Claude Code, 100% dos gates verdes no CI | NestJS, Next.js, PostgreSQL |
+-->
 
-- **Análise e Desenvolvimento de Sistemas** (2021 – 2023)  
-  Centro de Ensino Superior de Maringá (UniCesumar)
+## 📫 Vamos conversar
 
----
-
-## 📚 Certificações & Cursos
-
-- JavaScript e TypeScript do Básico ao Avançado – Udemy  
-- React do Zero à Maestria (com Hooks, Router, API e projetos) – Udemy  
-- Node.js: Curso Completo do Básico ao Avançado – Udemy  
-- Programação Web com Python e Django Framework – Udemy  
-- Criação de APIs REST com Python e Django REST Framework – Udemy  
-- Lógica de Programação com Java  
-- Intermediary & Advanced Front-End  
-- Intermediary & Advanced Back-End  
-- Hero Cloud Developer | Cloud Diversity AWS  
-- Tópicos Especiais de Direito para Tecnologia  
-- Gestão do Tempo para Profissionais de TI
-
----
-
-## 📫 Como me encontrar?
-
-- **LinkedIn:** [anderson-vilela](https://www.linkedin.com/in/anderson-vilela)  
-- **GitHub:** [anderson-vilela](https://github.com/anderson-vilela)  
+- **LinkedIn:** [anderson-vilela](https://www.linkedin.com/in/anderson-vilela)
+- **GitHub:** [anderson-vilela](https://github.com/anderson-vilela)
 - **Email:** [andersonvilela.dev@gmail.com](mailto:andersonvilela.dev@gmail.com)
 
 ---
 
-💡 _"Código limpo e bem estruturado é a base de qualquer grande aplicação."_ 🚀
-
----
-
-
+<p align="center">
+  💡 <i>"IA acelera a escrita do código. Especificação, contexto e verificação é que garantem que ele seja correto, auditável e confiável."</i>
+</p>
